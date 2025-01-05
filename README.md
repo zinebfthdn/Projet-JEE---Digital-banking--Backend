@@ -97,7 +97,7 @@ L'image montre la structure de la base de données, qui comprend les tables suiv
 - **bank_account** : Table représentant les comptes bancaires, avec des informations sur le type de compte (compte courant ou épargne) et le solde.
 - **customer** : Table stockant les informations des clients, comme leur nom et leur adresse e-mail.
 - 
-![Structure de la base de données](Digital_banking_backend_Zineb_Fetheddine\Screens\1.png)
+![Structure de la base de données](Digital_banking_backend_Zineb_Fetheddine/Screens/1.png)
 
 
 ### 2. Données des clients dans la base de données
