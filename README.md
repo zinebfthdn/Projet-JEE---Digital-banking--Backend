@@ -104,7 +104,7 @@ L'image montre la structure de la base de données, qui comprend les tables suiv
 
 Cette image montre les données stockées dans la table `customer`, où chaque ligne représente un client avec des colonnes pour l'`id`, l'`email`, et le `name`. Elle illustre les informations des clients actuellement enregistrées dans la base de données.
 
-![données](Digital_banking_backend_Zineb_Fetheddine\Screens\2.png)
+![données](Digital_banking_backend_Zineb_Fetheddine/Screens/2.png)
 
 L'image montre les données des clients stockées dans la table `customer`. Elle présente une vue avec les colonnes suivantes :
 - **id** : Identifiant unique du client.
@@ -113,30 +113,30 @@ L'image montre les données des clients stockées dans la table `customer`. Elle
 
 Les actions disponibles, telles que **éditer**, **copier**, **supprimer**, et **exporter**, permettent de gérer les enregistrements des clients dans la base de données. Dans l'exemple, on voit quatre clients enregistrés avec leurs informations.
 
-![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine\Screens\3.png)
+![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine/Screens/3.png)
 #### 3. Utilisation de Postman pour créer un client : 
 
 Cette image montre l'utilisation de Postman pour envoyer une requête `POST` à l'API pour créer un nouveau client. Le corps de la requête contient les informations du client (nom et e-mail). La réponse de l'API renvoie un objet avec un nouvel `id` généré pour le client.
 
-![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine\Screens\postman1.jpg)
+![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine/Screens/postman1.jpg)
 
 ### 4. Utilisation de Postman pour supprimer un client
 
 Cette image montre l'utilisation de Postman pour envoyer une requête `DELETE` à l'API afin de supprimer un client existant (ici, avec l'ID 2). La requête renvoie une erreur interne du serveur avec un code **500**, ce qui indique que quelque chose n'a pas fonctionné correctement au niveau du serveur.
 
-![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine\Screens\postman2.jpg)
+![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine/Screens/postman2.jpg)
 
 ### 6. Utilisation de Postman pour récupérer un client
 
 Cette image montre l'utilisation de Postman pour envoyer une requête `GET` à l'API afin de récupérer un client spécifique (ici, avec l'ID 5). La réponse renvoie les détails du client, y compris son `id`, `name`, et `email`.
 
-![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine\Screens\postman3.jpg)
+![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine/Screens/postman3.jpg)
 
 ### 7. Utilisation de Postman pour mettre à jour un client
 
 Cette image montre l'utilisation de Postman pour envoyer une requête `PUT` à l'API afin de mettre à jour les informations d'un client existant (ici, avec l'ID 5). La requête inclut les nouvelles valeurs pour le `name` et l'`email` du client.
 
-![Données des clients dans la base de données](Digital_banking_backend_Zineb_Fetheddine\Screens\postman4.jpg)
+![Données des clients dans la base de données (Digital_banking_backend_Zineb_Fetheddine/Screens/postman4.jpg)
 
 
 ### 4. Réponse d'API dans Swagger UI
@@ -169,11 +169,11 @@ La réponse inclut des informations comme :
 
 -**Affichage de tous les comptes**
 
-![Reponse](Digital_banking_backend_Zineb_Fetheddine\Screens\Acc.png)
+![Reponse](Digital_banking_backend_Zineb_Fetheddine/Screens/acc.png)
 
 -**Affichage d'un compte selon l'ID**
 
-![Reponse](Digital_banking_backend_Zineb_Fetheddine\Screens\HHH.png)
+![Reponse](Digital_banking_backend_Zineb_Fetheddine/Screens/HHH.png)
 
 ---
 ## Conclusion
